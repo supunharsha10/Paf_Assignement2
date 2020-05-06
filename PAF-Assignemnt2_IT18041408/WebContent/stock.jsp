@@ -39,7 +39,7 @@
 
      <div class="top">
       <div class="logo"><img src="images/1.png" width= 296px height=300px></div>
-      <div class="name"><h2>Healthcare</h2></div>
+      <div class="name"><h1 style="font-size:140px; margin-top:65px; position:absolute;left:390px">Healthcare</h1></div>
       </div>
 
 
