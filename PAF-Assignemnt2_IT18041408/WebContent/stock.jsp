@@ -38,8 +38,8 @@
 
 
      <div class="top">
-      <div class="logo"><img src="images/1.png" width= 296px height=300px></div>
-      <div class="name"><h1 style="font-size:140px; margin-top:65px; position:absolute;left:390px">Healthcare</h1></div>
+      <div class="logo"><img src="images/1.png" width= 200px height=200px></div>
+      <div class="name"><h1 style="font-size:100px; margin-top:40px; position:absolute;left:250px">Healthcare</h1></div>
       </div>
 
 
@@ -138,10 +138,10 @@
       
        <div class="footer-icons">
 
-        <a href="#"><i class="fa fa-facebook"></i></a>
-        <a href="#"><i class="fa fa-twitter"></i></a>
-        <a href="#"><i class="fa fa-linkedin"></i></a>
-        <a href="#"><i class="fa fa-github"></i></a>
+        <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+        <a href="https://www.twitter.com"><i class="fa fa-twitter"></i></a>
+        <a href="https://www.linkedin.com"><i class="fa fa-linkedin"></i></a>
+        <a href="https://github.com/supunharsha10"><i class="fa fa-github"></i></a>
 
       </div>
 
