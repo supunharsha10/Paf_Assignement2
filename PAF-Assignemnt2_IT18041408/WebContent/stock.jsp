@@ -75,8 +75,10 @@
 					 <input id="btnSave" name="btnSave" type="button" value="Save" class="btn btn-primary">  
 					 <input type="hidden" id="hidAppIDSave" name="hidAppIDSave" value=""> 
 					 
+					 <br>
+					 
 				</form> 
-				
+				 <br>
 				<div id="alertSuccess" class="alert alert-success"></div>  
 				<div id="alertError" class="alert alert-danger"></div> 
 				
